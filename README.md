@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edgar Vital</h1>
 <h3 align="center">A developer passionate about technology and systems modeling from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarvital&label=Profile%20views&color=0e75b6&style=flat" alt="edgarvital" /> </p>
+<p align="left"> I started my journey as a programmer in 2013 when I entered a technical computer course at the Federal Institute of Pernambuco (IFPE). It was four intense years where I learned and put into practice the Java language, the object-oriented programming paradigm and several other technical knowledge applied in modeling and software development. In 2018 I started a computer science course at the Federal University of Agreste de Pernambuco (UFAPE), continuing in the technology area. I got my first professional job through the Multidisciplinary Laboratory of Social Technologies, where I developed several institutional and social systems, until I was hired by the health department of Garanhuns to maintain a system called Vem Vacina Garanhuns and, along with that, I've acted with modeling, developing and maintaining other systems as a Full Stack Developer. </p>
 
-<p align="left">  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> </p>
+<p align="left">  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
