@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edgar Vital</h1>
 <h3 align="center">A developer passionate about technology and systems modeling from Brazil</h3>
 
-<p align="left">  <img alt="Coding" width="400" src"https://pin.it/2BSlr9E"> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarvital&label=Profile%20views&color=0e75b6&style=flat" alt="edgarvital" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgarvital" alt="edgarvital" /></a> </p>
+<p align="left">  <img alt="Coding" width="400" src"https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
